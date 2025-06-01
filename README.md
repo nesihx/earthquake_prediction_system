@@ -54,16 +54,24 @@ Bu veriler, modelin eğitimi ve test edilmesi için kullanılmaktadır.
 
 🚀 Kullanım
 Script çalıştırıldığında, kullanıcıdan aşağıdaki bilgileri girmesi istenir:
+
 Enlem
+
 Boylam
+
 Derinlik
+
 Girilen bu parametreler doğrultusunda model, tahmini deprem büyüklüğünü hesaplar ve kullanıcıya sunar.
 
 🔍 Model Eğitimi
 Model, veriler.csv dosyasındaki verilerle eğitilmiştir. Eğitim sürecinde aşağıdaki adımlar izlenmiştir:
+
 Veri ön işleme ve temizleme
+
 Özellik mühendisliği
+
 Modelin eğitimi ve doğrulanması
+
 Performans değerlendirmesi
 
 🤝 Katkıda Bulunma
