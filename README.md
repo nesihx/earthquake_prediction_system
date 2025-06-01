@@ -28,23 +28,28 @@ earthquake_prediction_system/
 
 ```bash
 git clone https://github.com/nesihx/earthquake_prediction_system.git
-cd earthquake_prediction_system ``` 
+cd earthquake_prediction_system 
 ```
 
 2. Gerekli Python paketlerini yükleyin:
 ```bash
-pip install -r requirements.txt ```
+pip install -r requirements.txt 
 ```
 3.Ana scripti çalıştırın:
 ```bash
-python YSAPROJE.py  ```
+python YSAPROJE.py  
 ```
 📊 Veri Kümesi
 veriler.csv dosyası, geçmiş depremlere ait aşağıdaki özellikleri içermektedir:
+
 Latitude (Enlem)
+
 Longitude (Boylam)
+
 Depth (Derinlik)
+
 Magnitude (Büyüklük)
+
 Bu veriler, modelin eğitimi ve test edilmesi için kullanılmaktadır.
 
 🚀 Kullanım
