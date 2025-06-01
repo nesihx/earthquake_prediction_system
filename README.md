@@ -19,8 +19,11 @@ Bu proje, geçmiş deprem verilerini kullanarak yapay sinir ağları (YSA) ile g
 ## 📁 Proje Yapısı
 
 earthquake_prediction_system/
+
 ├── YSAPROJE.py # Ana Python scripti
+
 ├── veriler.csv # Eğitim ve test verilerini içeren CSV dosyası
+
 └── README.md # Proje tanıtım dosyası
 
 ## ⚙️ Kurulum ve Çalıştırma
