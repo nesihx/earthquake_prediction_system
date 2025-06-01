@@ -34,7 +34,7 @@ cd earthquake_prediction_system
 pip install -r requirements.txt
 
 3.Ana scripti çalıştırın:
-python YSAPROJE.py
+python YSAPROJE.py 
 
 📊 Veri Kümesi
 veriler.csv dosyası, geçmiş depremlere ait aşağıdaki özellikleri içermektedir:
