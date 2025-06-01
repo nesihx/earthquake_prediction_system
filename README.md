@@ -1,6 +1,3 @@
-# Create the README.md content as a file for the user to download
-
-
 # 🌍 Deprem Tahmin Sistemi (Earthquake Prediction System)
 
 ## 📌 Proje Hakkında
